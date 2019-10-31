@@ -1,2 +1,2 @@
 # FirstRepoClass2
-first try on git hub
+first try on git hub by suveb ansari
